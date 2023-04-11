@@ -1,0 +1,137 @@
+// 554e582df48c4cfe94daaf643c8192a7
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Fake Trump arrest photos: How to spot an AI-generated image",
+            "description": "Pictures of former President Trump being \"arrested\" are all over social media - but don't be fooled",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65069316",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB79/production/_129139974_faketrump4.png",
+            "publishedAt": "2023-03-24T19:37:12.2559046Z",
+            "content": "Fake images created by artificial intelligence (AI) tools depicting Donald Trump have appeared on social media over the past week.\r\nMany falsely showed the arrest of the former president, who may fac… [+3661 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "France protests: Macron takes off 'luxury' watch during TV interview",
+            "description": "The president's team say the watch was banging on the table - but critics say it was a bad look.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65069823",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/564D/production/_129139022_macron_comp.jpg",
+            "publishedAt": "2023-03-24T18:52:17.630528Z",
+            "content": "French President Emmanuel Macron has been criticised after he removed a \"luxury\" watch during an interview about raising the pension age to 64.\r\nFrance is gripped by protests and strikes over Mr Macr… [+2530 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Biden visits Canada: Haiti and migration to top the agenda",
+            "description": "Prime Minister Justin Trudeau and President Biden are expected to discuss immigration, Haiti, and defence.",
+            "url": "http://www.bbc.co.uk/news/live/world-us-canada-65047054",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-03-24T17:37:25.4284752Z",
+            "content": "The big moment will be US president Joe Bidens address to Canadian members of parliament - a tradition that has been observed by past US presidents visiting their northern neighbour. You can stream B… [+715 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Massive asteroid to pass by Earth on weekend",
+            "description": "The unusually large space object will harmlessly bypass the planet this weekend.",
+            "url": "http://www.bbc.co.uk/news/science-environment-65061818",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6FE1/production/_129114682_international_space_station_iss_view_from_sts-118.jpg",
+            "publishedAt": "2023-03-24T15:52:19.6614805Z",
+            "content": "An asteroid large enough to destroy a city will pass between the orbits of the Earth and the Moon this weekend - luckily for us, missing both.\r\nThe object, named 2023 DZ2, was discovered a month ago.… [+975 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Gwyneth Paltrow trial: Accuser to testify in ski crash trial",
+            "description": "The star-turned-influencer and a retired eye doctor are suing each other over an incident at an upmarket resort in 2016.",
+            "url": "http://www.bbc.co.uk/news/live/world-us-canada-65065144",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-03-24T15:22:19.0992719Z",
+            "content": "Gwyneth Paltrow is accused of causing a collision that left retired eye doctor Terry Sanderson, 76, concussed.\r\nSanderson alleges that Paltrow crashed into him, causing him lasting injuries and brain… [+666 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US bombs Syrian targets after deadly drone attack",
+            "description": "The US says it hit Iran-linked militia after a drone attack killed a US contractor and injured others.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-65061880",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/82E7/production/_129111533_mediaitem129111532.jpg",
+            "publishedAt": "2023-03-24T11:52:17.7704031Z",
+            "content": "The US has carried out air strikes against Iran-linked groups in eastern Syria after a drone attack killed a US contractor, the US defence chief said.\r\nEight pro-Iran fighters were killed, according … [+2017 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "King Charles's France visit postponed after pension protests",
+            "description": "King Charles's state visit to France postponed, French presidency says, after protests turned violent",
+            "url": "http://www.bbc.co.uk/news/uk-65064510",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-03-24T10:52:20.792663Z",
+            "content": "Charles III's first state visit as King has been postponed, the Elysée Palace has said, as France faces continued protests against the government's pension reforms.\r\nThe trip to Paris and Bordeaux wa… [+536 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Top Gear filming halted after Freddie Flintoff accident",
+            "description": "The BBC said it would be \"inappropriate\" to resume making the popular TV show's new series for now.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-65056723",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2135/production/_129110580_hi083346914.jpg",
+            "publishedAt": "2023-03-24T08:37:21.5266782Z",
+            "content": "The BBC says it has halted the latest series of Top Gear after presenter Andrew \"Freddie\" Flintoff was hurt in an accident while filming. \r\nThe presenter was injured in December at Top Gear's test tr… [+2538 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US and Canada reach deal to reject asylum seekers",
+            "description": "The move is part of efforts to limit a surge of border crossings between New York and Quebec.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65047438",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15692/production/_129089678_gettyimages-1247840460.jpg",
+            "publishedAt": "2023-03-24T08:37:18.1929212Z",
+            "content": "The US and Canada have reached a deal to reject asylum seekers at unofficial border crossings, officials say.\r\nUS President Joe Biden and Canadian PM Justin Trudeau will announce the pact on Friday d… [+2303 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Muslim told not to pray at Canadian train station",
+            "description": "A rail firm apologises after an Ottawa employee told a Muslim he was \"bothering\" customers by praying.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65060730",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/153C4/production/_129108968_p0fbnrvb.jpg",
+            "publishedAt": "2023-03-24T02:07:15.8179958Z",
+            "content": "A rail company apologises after a staff member in Ottawa said a Muslim was \"bothering\" customers by praying.\r\nAhmed told the BBC of his shock at the tense interaction inside the train station in the … [+16 chars]"
+        }
+    ]
+}
